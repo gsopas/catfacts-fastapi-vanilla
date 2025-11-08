@@ -1,10 +1,15 @@
-# Cat Facts (FastAPI + Vanilla JS)
+# Cat Facts — FastAPI + Vanilla JS
 
-Backend: FastAPI
-- GET /ping -> {"ok": true}
-- GET /catfact -> {"fact": "..."}
+Small full-stack demo:
+- **Backend:** FastAPI (`/ping`, `/catfact`), deployed on **Render**
+- **Frontend:** HTML/CSS + vanilla JS, hosted on **GitHub Pages**
 
-Frontend: simple HTML/JS that fetches from /catfact
 
-Render Start command:
-uvicorn backend.app:app --host 0.0.0.0 --port $PORT
+[URL](https://gsopas.github.io/catfacts-fastapi-vanilla/frontend/index.html)
+
+[Live Demo](https://gsopas.github.io/catfacts-fastapi-vanilla/) • 
+
+## Screenshot- gif
+![App screenshot](docs/cat-gif.gif)
+
+
