@@ -9,6 +9,8 @@ Small full-stack demo:
 
 [Live Demo](https://gsopas.github.io/catfacts-fastapi-vanilla/) • 
 
+[ping_Render](https://catfacts-fastapi-vanilla-1.onrender.com/)
+
 ## Screenshot- gif
 ![App screenshot](docs/cat-gif.gif)
 
