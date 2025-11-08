@@ -1,5 +1,5 @@
 // Replace this after deploying the backend on Render:
-const API_BASE = "https://YOUR-RENDER-URL";
+const API_BASE = "https://catfacts-fastapi-vanilla.onrender.com";
 
 const btn = document.getElementById("btn");
 const out = document.getElementById("output");
