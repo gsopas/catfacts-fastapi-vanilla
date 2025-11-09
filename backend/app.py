@@ -4,7 +4,7 @@ import httpx
 
 app = FastAPI()
 
-# For learning, we allow all origins. Later you can restrict this.
+# Allowing all origins for CORS
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
